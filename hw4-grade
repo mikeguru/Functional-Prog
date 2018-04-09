@@ -1,0 +1,26 @@
+/* hw4 guideline */
+/* MPCS 51400, Winter 2017 */
+
+/* === Evaluation === */
+/* Blackjack   	          60/60 */
+Works well.
+
+/* === Style === */
+/* Modular code           20/25 */
+Too much of the code was in Blackjack.hs. Next time please segement things out to form a domain modle. I also don't see why you wrote the printText and header functions in separate files. 
+
+/* Other style features   15/15 */ 
+    E.g.: 
+    -code reuse
+    -documentation, 
+    -naming conventions
+Aside from the module definitions, the code is pretty well-factored. Looking good!
+
+/* Extra-Credit           10/10 */ 
+Works.
+
+/* _TOTAL-SCORE_    105/100 */
+Nice work!
+
+/* graded by Lionel Barrow */
+
